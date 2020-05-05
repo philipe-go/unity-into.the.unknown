@@ -1,0 +1,1569 @@
+fileFormatVersion: 2
+guid: c7a5bc3efc894884eadf2df49629804e
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Pointing
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Pointing
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 83
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ZionAIGod(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh.023
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052420564, y: -0.0033673435, z: 0.038767483}
+      rotation: {x: -0.00087460136, y: 0.00024509965, z: -0.001103082, w: 0.999999}
+      scale: {x: 1.0000005, y: 1.0000017, z: 1.0000008}
+    - name: Circle.167
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052423157, y: -0.003363941, z: 0.03876788}
+      rotation: {x: -0.0008746142, y: 0.000245097, z: -0.0011030792, w: 0.999999}
+      scale: {x: 0.49425852, y: 0.4942591, z: 0.49425873}
+    - name: Circle.170
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052418217, y: -0.003372421, z: 0.038767535}
+      rotation: {x: -0.00087461295, y: 0.00024510233, z: -0.0011030945, w: 0.999999}
+      scale: {x: 0.49425876, y: 0.49425915, z: 0.49425876}
+    - name: Circle.173
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242019, y: -0.003382444, z: 0.038767572}
+      rotation: {x: -0.00087461434, y: 0.00024510993, z: -0.001103072, w: 0.999999}
+      scale: {x: 0.49425852, y: 0.49425948, z: 0.49425897}
+    - name: Circle.176
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242786, y: -0.003369165, z: 0.038768638}
+      rotation: {x: -0.00087461405, y: 0.00024509983, z: -0.0011030836, w: 0.999999}
+      scale: {x: 0.49425834, y: 0.4942591, z: 0.49425867}
+    - name: Circle.168
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052427378, y: -0.0033600216, z: 0.0387676}
+      rotation: {x: -0.0008746117, y: 0.00024509453, z: -0.0011030833, w: 0.999999}
+      scale: {x: 0.49425843, y: 0.49425894, z: 0.49425858}
+    - name: Circle.171
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05241976, y: -0.0033688669, z: 0.038767748}
+      rotation: {x: -0.00087461306, y: 0.0002451041, z: -0.0011030638, w: 0.999999}
+      scale: {x: 0.49425882, y: 0.49425915, z: 0.49425867}
+    - name: Circle.174
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052422408, y: -0.0033810295, z: 0.038767587}
+      rotation: {x: -0.0008746107, y: 0.0002451016, z: -0.0011030341, w: 0.999999}
+      scale: {x: 0.49425846, y: 0.49425942, z: 0.49425885}
+    - name: Circle.177
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052430872, y: -0.0033606058, z: 0.038768537}
+      rotation: {x: -0.00087461364, y: 0.0002451054, z: -0.0011030681, w: 0.999999}
+      scale: {x: 0.49425828, y: 0.49425885, z: 0.4942585}
+    - name: Circle.169
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242668, y: -0.0033557802, z: 0.038767576}
+      rotation: {x: -0.0008746101, y: 0.00024509738, z: -0.0011030536, w: 0.999999}
+      scale: {x: 0.49425846, y: 0.49425882, z: 0.49425855}
+    - name: Circle.172
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052424487, y: -0.0033578025, z: 0.038767718}
+      rotation: {x: -0.0008746112, y: 0.00024510254, z: -0.0011030927, w: 0.999999}
+      scale: {x: 0.4942586, y: 0.49425906, z: 0.49425855}
+    - name: Circle.175
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052421395, y: -0.003378125, z: 0.03876732}
+      rotation: {x: -0.00087460625, y: 0.00024510673, z: -0.0011029784, w: 0.999999}
+      scale: {x: 0.49425846, y: 0.49425933, z: 0.49425885}
+    - name: Circle.178
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052431524, y: -0.0033626864, z: 0.038768698}
+      rotation: {x: -0.0008746088, y: 0.00024509398, z: -0.0011030621, w: 0.999999}
+      scale: {x: 0.49425822, y: 0.49425894, z: 0.49425843}
+    - name: Circle.179
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.053355105, y: -0.0037603378, z: 0.036955893}
+      rotation: {x: -0.00084773515, y: 0.00027673919, z: -0.0011238544, w: 0.999999}
+      scale: {x: 0.49425843, y: 0.49425906, z: 0.49425864}
+    - name: Circle.180
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052413944, y: -0.0033597946, z: 0.038764954}
+      rotation: {x: -0.00087472936, y: 0.00024528478, z: -0.0011029756, w: 0.999999}
+      scale: {x: 0.49425846, y: 0.49425906, z: 0.49425867}
+    - name: Circle.181
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052413575, y: -0.0033605106, z: 0.03876388}
+      rotation: {x: -0.0008747258, y: 0.00024529046, z: -0.0011029693, w: 0.999999}
+      scale: {x: 0.49425837, y: 0.4942589, z: 0.49425864}
+    - name: main.001
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.057722453, y: -0.0057473234, z: 0.022100208}
+      rotation: {x: -0.00051366375, y: 0.0003051823, z: -0.001226346, w: 0.9999991}
+      scale: {x: 1.0000008, y: 1.0000011, z: 1.0000004}
+    - name: Mesh.022
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.057994306, y: -0.0058020675, z: 0.022554334}
+      rotation: {x: 0.70675206, y: -0.0007098916, z: -0.0010292201, w: 0.7074602}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000008}
+    - name: Mesh.003
+      parentName: ZionAIGod(Clone)
+      position: {x: 3.5938697e-13, y: 0.0000076293936, z: -0.0000014305106}
+      rotation: {x: 0.7071069, y: -1.2766837e-14, z: -1.8505044e-14, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999997}
+    - name: Circle
+      parentName: ZionAIGod(Clone)
+      position: {x: -2.2527962e-13, y: 27.24506, z: -0.107245}
+      rotation: {x: 0.000000044703498, y: -1.4420973e-15, z: 7.649439e-15, w: 1}
+      scale: {x: 1.0537134, y: 0.9999997, z: 0.9999997}
+    - name: Mesh.000
+      parentName: ZionAIGod(Clone)
+      position: {x: 3.5938697e-13, y: 0.0000076293936, z: -0.0000014305106}
+      rotation: {x: 0.7071069, y: -1.2766837e-14, z: -1.8505044e-14, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999997}
+    - name: Mesh.004
+      parentName: ZionAIGod(Clone)
+      position: {x: 1.3877788e-17, y: 0.0000013113023, z: -0.0000002980232}
+      rotation: {x: 0.7071068, y: 6.899822e-19, z: -2.2999403e-19, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Mesh.012
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022931458, y: -0.0013535917, z: 0.042377844}
+      rotation: {x: 0.70644057, y: 0.000049204973, z: 0.00065271254, w: 0.7077721}
+      scale: {x: 1.0000026, y: 1.0000039, z: 1.000004}
+    - name: main.003
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.02275896, y: -0.0022622778, z: 0.013836861}
+      rotation: {x: -0.0003348842, y: -0.00056869653, z: 0.0004968777, w: 0.9999997}
+      scale: {x: 1.0000048, y: 1.0000044, z: 1.0000056}
+    - name: Mesh.011
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022677582, y: -0.00226929, z: 0.014801864}
+      rotation: {x: -0.00035560367, y: -0.0005651751, z: 0.0004951977, w: 0.9999997}
+      scale: {x: 1.0000057, y: 1.000006, z: 1.0000072}
+    - name: Circle.185
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022682413, y: -0.0022618817, z: 0.014802263}
+      rotation: {x: -0.0003556059, y: -0.00056516944, z: 0.00049521483, w: 0.9999997}
+      scale: {x: 0.4942609, y: 0.4942613, z: 0.49426204}
+    - name: Circle.186
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022686332, y: -0.0022541368, z: 0.014802108}
+      rotation: {x: -0.00035560425, y: -0.00056517066, z: 0.0004952098, w: 0.9999997}
+      scale: {x: 0.49426082, y: 0.49426103, z: 0.4942619}
+    - name: Circle.187
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022687254, y: -0.0022516164, z: 0.014802327}
+      rotation: {x: -0.00035560437, y: -0.0005651699, z: 0.0004952131, w: 0.9999997}
+      scale: {x: 0.49426076, y: 0.49426112, z: 0.49426195}
+    - name: Circle.188
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022672724, y: -0.0022703742, z: 0.014801564}
+      rotation: {x: -0.00035560428, y: -0.0005651707, z: 0.0004952031, w: 0.9999997}
+      scale: {x: 0.49426123, y: 0.49426135, z: 0.49426228}
+    - name: Circle.189
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022673707, y: -0.002268508, z: 0.014801636}
+      rotation: {x: -0.00035560358, y: -0.0005651627, z: 0.00049519894, w: 0.9999997}
+      scale: {x: 0.49426115, y: 0.4942613, z: 0.49426228}
+    - name: Circle.190
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022679182, y: -0.002257551, z: 0.014801677}
+      rotation: {x: -0.0003556042, y: -0.0005651618, z: 0.00049519807, w: 0.9999997}
+      scale: {x: 0.49426106, y: 0.49426112, z: 0.4942622}
+    - name: Circle.191
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022675205, y: -0.0022734113, z: 0.014801769}
+      rotation: {x: -0.00035560495, y: -0.0005651724, z: 0.00049521425, w: 0.9999997}
+      scale: {x: 0.49426118, y: 0.49426144, z: 0.49426228}
+    - name: Circle.192
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022675518, y: -0.002272666, z: 0.014801741}
+      rotation: {x: -0.00035560495, y: -0.0005651705, z: 0.0004952171, w: 0.9999997}
+      scale: {x: 0.4942611, y: 0.49426144, z: 0.4942622}
+    - name: Circle.193
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022681074, y: -0.0022654647, z: 0.014801921}
+      rotation: {x: -0.00035560393, y: -0.0005651724, z: 0.0004951987, w: 0.9999997}
+      scale: {x: 0.4942611, y: 0.49426135, z: 0.49426222}
+    - name: Circle.194
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.02267688, y: -0.0022607406, z: 0.014801581}
+      rotation: {x: -0.000355605, y: -0.000565168, z: 0.00049518375, w: 0.9999997}
+      scale: {x: 0.49426115, y: 0.49426138, z: 0.49426204}
+    - name: Circle.195
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022679884, y: -0.0022677938, z: 0.014801546}
+      rotation: {x: -0.00035560207, y: -0.00056516926, z: 0.000495165, w: 0.9999997}
+      scale: {x: 0.494261, y: 0.49426135, z: 0.49426186}
+    - name: Circle.196
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022679174, y: -0.002259717, z: 0.014801434}
+      rotation: {x: -0.00035560183, y: -0.0005651649, z: 0.0004951451, w: 0.9999997}
+      scale: {x: 0.49426106, y: 0.4942612, z: 0.49426186}
+    - name: Circle.182
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.023604749, y: -0.0026669502, z: 0.0129906535}
+      rotation: {x: -0.00032879022, y: -0.0005968297, z: 0.00051595335, w: 0.99999964}
+      scale: {x: 0.49426118, y: 0.49426135, z: 0.49426204}
+    - name: Circle.183
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022667289, y: -0.0022640224, z: 0.014803171}
+      rotation: {x: -0.00035578807, y: -0.0005653473, z: 0.0004951191, w: 0.9999997}
+      scale: {x: 0.49426123, y: 0.49426126, z: 0.494262}
+    - name: Circle.184
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022675157, y: -0.002256632, z: 0.014801502}
+      rotation: {x: -0.0003557656, y: -0.0005652873, z: 0.0004951551, w: 0.9999997}
+      scale: {x: 0.494261, y: 0.4942611, z: 0.4942618}
+    - name: Mesh.009
+      parentName: ZionAIGod(Clone)
+      position: {x: 6.6685546e-13, y: 0.00000023841807, z: -0.00000032782447}
+      rotation: {x: 0.7071068, y: 1.9509634e-15, z: -5.3769533e-15, w: 0.7071067}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Mesh.007
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.000000003165752, y: 0.0000025394381, z: 0.0000009954493}
+      rotation: {x: 0.7071068, y: -4.097943e-14, z: -1.0990646e-14, w: 0.7071067}
+      scale: {x: 0.9999997, y: 1.0000002, z: 0.99999976}
+    - name: Mesh.017
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000010797438, y: -0.0000053532417, z: 0.0000021481533}
+      rotation: {x: 0.7071068, y: 0.000000036056015, z: -0.000000025731852, w: 0.7071067}
+      scale: {x: 0.99999976, y: 1.0000017, z: 1.0000002}
+    - name: Mesh.013
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000012568661, y: -0.0000047556514, z: -0.000003316217}
+      rotation: {x: 0.70710695, y: 0.00000017418137, z: -0.00000018684467, w: 0.7071066}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000001}
+    - name: Mesh.016
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.000001451508, y: -0.0000010663996, z: 0.0000031047084}
+      rotation: {x: 0.7071067, y: -0.00000016011975, z: 0.000000070035455, w: 0.7071068}
+      scale: {x: 0.9999996, y: 0.9999996, z: 0.9999997}
+    - name: Mesh.020
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00000037378268, y: 0.0000024558979, z: -0.00000033859396}
+      rotation: {x: 0.7071068, y: 8.892533e-10, z: 4.6461196e-10, w: 0.7071067}
+      scale: {x: 0.9999994, y: 0.9999996, z: 0.9999996}
+    - name: Mesh.019
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00000089280974, y: -0.0000053797717, z: 0.0000021010735}
+      rotation: {x: 0.7071068, y: 0.000000036025313, z: -0.000000024588804, w: 0.7071067}
+      scale: {x: 0.99999976, y: 1.0000017, z: 1.0000005}
+    - name: Mesh.021
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000011481102, y: -0.000005585396, z: 0.000002011871}
+      rotation: {x: 0.7071068, y: 0.000000036055706, z: -0.000000024629916, w: 0.7071067}
+      scale: {x: 0.9999999, y: 1.0000017, z: 1.0000007}
+    - name: Cube.006
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000007752872, y: -0.0000055446994, z: 0.0000019976544}
+      rotation: {x: -0.00000009685741, y: -0.0000000011535275, z: -6.391154e-10, w: 1}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1.0000014}
+    - name: Mesh.014
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000006829915, y: 0.0000015667977, z: -0.0000003837156}
+      rotation: {x: 0.7071068, y: 0.0000000014997711, z: 1.9766816e-10, w: 0.7071067}
+      scale: {x: 0.9999994, y: 0.9999996, z: 0.9999997}
+    - name: Mesh.015
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00000034140618, y: 0.0000017128199, z: -0.00000053293246}
+      rotation: {x: 0.7071068, y: 0.0000000010929952, z: 1.4022943e-10, w: 0.7071067}
+      scale: {x: 0.9999994, y: 0.9999994, z: 0.9999996}
+    - name: Cube.003
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.000000541455, y: 0.0000018376397, z: -0.00000027327403}
+      rotation: {x: 0.000000007450587, y: -1.11117844e-10, z: 0.0000000010315314,
+        w: 1}
+      scale: {x: 0.99999934, y: 0.9999994, z: 0.9999994}
+    - name: Mesh.018
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.00000013588549, y: 0.0000006647258, z: -0.00000037506368}
+      rotation: {x: 0.7071068, y: 1.3267287e-14, z: 6.3883136e-15, w: 0.7071067}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: Mesh.024
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.5968466, y: 0.056167256, z: -1.0776007}
+      rotation: {x: 0.7199478, y: -0.049885932, z: 0.03001129, w: 0.69158214}
+      scale: {x: 0.9999999, y: 0.9999996, z: 0.99999964}
+    - name: Cube.007
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242009, y: -0.00336925, z: 0.0387675}
+      rotation: {x: -0.00087460084, y: 0.0002451005, z: -0.0011030809, w: 0.999999}
+      scale: {x: 0.49550784, y: 0.4955083, z: 0.49550796}
+    - name: Cube.005
+      parentName: ZionAIGod(Clone)
+      position: {x: -1.2859135e-13, y: 27.283749, z: -0.00000026379718}
+      rotation: {x: 0.000000044703498, y: -1.8043013e-15, z: 3.553422e-15, w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999997}
+    - name: Mesh.002
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.09010634, y: 0.08194206, z: -1.3162329}
+      rotation: {x: 0.7229252, y: -0.027636228, z: 0.022276316, w: 0.69001395}
+      scale: {x: 0.99999976, y: 0.99999946, z: 0.99999964}
+    - name: Mesh.006
+      parentName: ZionAIGod(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Mesh.008
+      parentName: ZionAIGod(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Cube.002
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022678081, y: -0.0022734674, z: 0.014801823}
+      rotation: {x: -0.0003556037, y: -0.0005651744, z: 0.00049520266, w: 0.9999997}
+      scale: {x: 0.4955103, y: 0.49551043, z: 0.49551114}
+    - name: Cube.004
+      parentName: ZionAIGod(Clone)
+      position: {x: 6.6685546e-13, y: 0.00000023841807, z: -0.00000032782447}
+      rotation: {x: 8.881784e-16, y: 1.1309531e-14, z: 2.4442258e-15, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Circle.166
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242009, y: -0.003369251, z: 0.038767483}
+      rotation: {x: -0.00087460096, y: 0.00024510027, z: -0.001103081, w: 0.999999}
+      scale: {x: 0.49166363, y: 0.49166417, z: 0.49166375}
+    - name: Circle.200
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242172, y: -0.0033678666, z: 0.03876786}
+      rotation: {x: -0.0008746137, y: 0.00024509596, z: -0.0011030985, w: 0.999999}
+      scale: {x: 0.5739445, y: 0.5739452, z: 0.5739448}
+    - name: Circle.199
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05241981, y: -0.0033692042, z: 0.038767852}
+      rotation: {x: -0.0008746139, y: 0.00024509671, z: -0.0011030757, w: 0.999999}
+      scale: {x: 0.5739447, y: 0.5739453, z: 0.57394475}
+    - name: Circle.198
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052425265, y: -0.0033653025, z: 0.038767572}
+      rotation: {x: -0.00087461714, y: 0.00024510786, z: -0.0011030816, w: 0.999999}
+      scale: {x: 0.57394445, y: 0.57394516, z: 0.5739448}
+    - name: Circle.197
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052423652, y: -0.003366534, z: 0.0387682}
+      rotation: {x: -0.00087461626, y: 0.00024510126, z: -0.0011030876, w: 0.999999}
+      scale: {x: 0.5739445, y: 0.57394516, z: 0.5739447}
+    - name: Circle.201
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242221, y: -0.003363822, z: 0.038767822}
+      rotation: {x: -0.00087461347, y: 0.00024509296, z: -0.0011030855, w: 0.999999}
+      scale: {x: 0.5739445, y: 0.57394505, z: 0.5739447}
+    - name: Circle.202
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052418217, y: -0.003372421, z: 0.03876756}
+      rotation: {x: -0.0008746127, y: 0.0002451, z: -0.0011030954, w: 0.999999}
+      scale: {x: 0.57394487, y: 0.57394516, z: 0.57394475}
+    - name: Circle.203
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05241828, y: -0.003382087, z: 0.038767517}
+      rotation: {x: -0.0008746135, y: 0.00024510585, z: -0.0011030694, w: 0.999999}
+      scale: {x: 0.5739445, y: 0.5739456, z: 0.573945}
+    - name: Circle.204
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.0524269, y: -0.0033690452, z: 0.038768608}
+      rotation: {x: -0.0008746137, y: 0.00024509974, z: -0.0011030798, w: 0.999999}
+      scale: {x: 0.5739443, y: 0.57394516, z: 0.57394457}
+    - name: Circle.205
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052426416, y: -0.003359902, z: 0.038767543}
+      rotation: {x: -0.0008746113, y: 0.00024509654, z: -0.0011030792, w: 0.999999}
+      scale: {x: 0.57394445, y: 0.573945, z: 0.5739445}
+    - name: Circle.206
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.0524188, y: -0.003368747, z: 0.038767718}
+      rotation: {x: -0.0008746123, y: 0.00024510015, z: -0.0011030656, w: 0.999999}
+      scale: {x: 0.5739448, y: 0.57394516, z: 0.57394457}
+    - name: Circle.207
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052422408, y: -0.003381029, z: 0.0387676}
+      rotation: {x: -0.0008746103, y: 0.00024510367, z: -0.001103037, w: 0.999999}
+      scale: {x: 0.5739444, y: 0.57394546, z: 0.5739448}
+    - name: Circle.208
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052429922, y: -0.0033603676, z: 0.038768504}
+      rotation: {x: -0.00087461236, y: 0.00024510073, z: -0.0011030596, w: 0.999999}
+      scale: {x: 0.5739442, y: 0.5739448, z: 0.5739444}
+    - name: Circle.212
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05242573, y: -0.0033555417, z: 0.03876752}
+      rotation: {x: -0.00087461044, y: 0.00024509695, z: -0.0011030581, w: 0.999999}
+      scale: {x: 0.5739444, y: 0.5739446, z: 0.5739445}
+    - name: Circle.211
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052423526, y: -0.0033594707, z: 0.038767718}
+      rotation: {x: -0.0008746127, y: 0.00024510614, z: -0.001103095, w: 0.999999}
+      scale: {x: 0.5739445, y: 0.57394505, z: 0.57394457}
+    - name: Circle.210
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052420907, y: -0.0033800323, z: 0.038767345}
+      rotation: {x: -0.000874606, y: 0.0002451036, z: -0.0011029867, w: 0.999999}
+      scale: {x: 0.5739443, y: 0.5739453, z: 0.5739448}
+    - name: Circle.209
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052430566, y: -0.0033625667, z: 0.038768638}
+      rotation: {x: -0.0008746094, y: 0.0002450959, z: -0.0011030651, w: 0.999999}
+      scale: {x: 0.57394415, y: 0.57394487, z: 0.5739444}
+    - name: Circle.213
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05335319, y: -0.003760814, z: 0.03695685}
+      rotation: {x: -0.00084774167, y: 0.00027674995, z: -0.0011238557, w: 0.999999}
+      scale: {x: 0.57394433, y: 0.57394505, z: 0.5739446}
+    - name: Circle.214
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052413467, y: -0.0033593175, z: 0.038764954}
+      rotation: {x: -0.0008747494, y: 0.0002453058, z: -0.0011029792, w: 0.999999}
+      scale: {x: 0.57394445, y: 0.57394505, z: 0.5739447}
+    - name: Circle.215
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.052412394, y: -0.0033612247, z: 0.0387646}
+      rotation: {x: -0.0008747238, y: 0.00024529934, z: -0.0011029559, w: 0.999999}
+      scale: {x: 0.5739444, y: 0.5739449, z: 0.5739446}
+    - name: Circle.165
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05391217, y: -0.0040858984, z: 0.038933873}
+      rotation: {x: -0.0008780627, y: 0.0002441543, z: -0.0011379726, w: 0.9999989}
+      scale: {x: 0.4916636, y: 0.4916642, z: 0.49166375}
+    - name: Circle.163
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.057722453, y: -0.0057473234, z: 0.022100208}
+      rotation: {x: -0.0005136662, y: 0.00030517654, z: -0.0012263516, w: 0.9999991}
+      scale: {x: 0.4916638, y: 0.4916638, z: 0.49166352}
+    - name: Circle.235
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.05797106, y: -0.00580316, z: 0.022569185}
+      rotation: {x: -0.0005010895, y: 0.00022569956, z: -0.001229352, w: 0.9999991}
+      scale: {x: 0.49166378, y: 0.4916639, z: 0.49166363}
+    - name: Circle.161
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.057994306, y: -0.0058020675, z: 0.022554334}
+      rotation: {x: -0.0005008109, y: 0.00022590181, z: -0.0012297558, w: 0.9999991}
+      scale: {x: 3.6450355, y: 3.645037, z: 3.6450336}
+    - name: Circle.160
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00032508725, y: 0.00070916896, z: 0.022527536}
+      rotation: {x: -0.0005008286, y: 0.0002279728, z: 0.0000000107779385, w: 0.9999999}
+      scale: {x: 5.5040517, y: 2.7945204, z: 2.794518}
+    - name: Circle.080
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.0006086244, y: 0.0013072263, z: 0.042348668}
+      rotation: {x: -0.00094144646, y: -0.00042853842, z: 0.000000010102268, w: 0.99999946}
+      scale: {x: 5.5040584, y: 2.7945273, z: 2.7945268}
+    - name: Circle.079
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022931458, y: -0.0013535917, z: 0.042377844}
+      rotation: {x: -0.00094165903, y: -0.00042740416, z: 0.0004963335, w: 0.99999934}
+      scale: {x: 3.6450436, y: 3.6450489, z: 3.645048}
+    - name: Circle.162
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022798534, y: -0.00226811, z: 0.013897315}
+      rotation: {x: -0.00033322012, y: -0.00055822416, z: 0.00049725914, w: 0.9999997}
+      scale: {x: 0.491665, y: 0.49166557, z: 0.49166566}
+    - name: Circle.130
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0227592, y: -0.0022603702, z: 0.013836918}
+      rotation: {x: -0.0003348843, y: -0.0005686912, z: 0.00049687247, w: 0.9999997}
+      scale: {x: 0.49166572, y: 0.4916655, z: 0.4916662}
+    - name: Circle.164
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022541046, y: -0.0021899345, z: 0.01478529}
+      rotation: {x: -0.00035530023, y: -0.0005652582, z: 0.00049189857, w: 0.9999997}
+      scale: {x: 0.49166578, y: 0.491666, z: 0.4916669}
+    - name: Circle.065
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022678083, y: -0.0022734683, z: 0.014801794}
+      rotation: {x: -0.0003556026, y: -0.0005651695, z: 0.00049521145, w: 0.9999997}
+      scale: {x: 0.49166614, y: 0.49166626, z: 0.49166682}
+    - name: Circle.219
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022675708, y: -0.0022705838, z: 0.014801706}
+      rotation: {x: -0.00035560472, y: -0.00056517037, z: 0.00049521413, w: 0.9999997}
+      scale: {x: 0.5739477, y: 0.5739479, z: 0.5739487}
+    - name: Circle.220
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022674808, y: -0.0022682473, z: 0.014801424}
+      rotation: {x: -0.00035560463, y: -0.0005651669, z: 0.00049521565, w: 0.9999997}
+      scale: {x: 0.57394767, y: 0.57394785, z: 0.5739486}
+    - name: Circle.221
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022674762, y: -0.0022690832, z: 0.014801512}
+      rotation: {x: -0.00035560457, y: -0.00056517427, z: 0.00049519376, w: 0.9999997}
+      scale: {x: 0.5739476, y: 0.5739479, z: 0.5739486}
+    - name: Circle.222
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022677675, y: -0.0022719188, z: 0.014801531}
+      rotation: {x: -0.00035560474, y: -0.0005651712, z: 0.00049520476, w: 0.9999997}
+      scale: {x: 0.57394767, y: 0.5739479, z: 0.5739486}
+    - name: Circle.226
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022683376, y: -0.0022620014, z: 0.014802233}
+      rotation: {x: -0.00035560533, y: -0.0005651707, z: 0.0004952267, w: 0.9999997}
+      scale: {x: 0.5739473, y: 0.57394767, z: 0.5739486}
+    - name: Circle.227
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022687294, y: -0.0022542574, z: 0.014802079}
+      rotation: {x: -0.0003556043, y: -0.00056517206, z: 0.0004952061, w: 0.9999997}
+      scale: {x: 0.5739472, y: 0.5739474, z: 0.57394844}
+    - name: Circle.234
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022687735, y: -0.0022518565, z: 0.014802297}
+      rotation: {x: -0.0003556047, y: -0.0005651714, z: 0.0004952132, w: 0.9999997}
+      scale: {x: 0.573947, y: 0.5739476, z: 0.57394856}
+    - name: Circle.225
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022673678, y: -0.0022704948, z: 0.014801527}
+      rotation: {x: -0.00035560416, y: -0.00056516886, z: 0.0004952003, w: 0.9999997}
+      scale: {x: 0.57394767, y: 0.5739478, z: 0.57394874}
+    - name: Circle.228
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022673717, y: -0.0022686285, z: 0.014801601}
+      rotation: {x: -0.00035560344, y: -0.0005651628, z: 0.00049519347, w: 0.9999997}
+      scale: {x: 0.5739475, y: 0.5739478, z: 0.5739488}
+    - name: Circle.233
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022679666, y: -0.0022556449, z: 0.014801578}
+      rotation: {x: -0.00035560477, y: -0.00056516525, z: 0.00049520016, w: 0.9999997}
+      scale: {x: 0.5739474, y: 0.5739475, z: 0.57394874}
+    - name: Circle.224
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022676166, y: -0.0022735312, z: 0.014801711}
+      rotation: {x: -0.0003556047, y: -0.0005651703, z: 0.00049521, w: 0.9999997}
+      scale: {x: 0.5739476, y: 0.5739479, z: 0.5739488}
+    - name: Circle.229
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022676473, y: -0.0022727859, z: 0.014801711}
+      rotation: {x: -0.00035560483, y: -0.00056516804, z: 0.0004952123, w: 0.9999997}
+      scale: {x: 0.5739474, y: 0.5739479, z: 0.5739487}
+    - name: Circle.232
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022682516, y: -0.0022636773, z: 0.014801888}
+      rotation: {x: -0.0003556044, y: -0.0005651717, z: 0.00049521064, w: 0.9999997}
+      scale: {x: 0.57394737, y: 0.5739478, z: 0.5739488}
+    - name: Circle.223
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022677362, y: -0.0022608617, z: 0.014801521}
+      rotation: {x: -0.00035560512, y: -0.0005651715, z: 0.00049518363, w: 0.9999997}
+      scale: {x: 0.5739475, y: 0.57394785, z: 0.57394856}
+    - name: Circle.230
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022680847, y: -0.0022679141, z: 0.0148014845}
+      rotation: {x: -0.00035560213, y: -0.0005651687, z: 0.00049516745, w: 0.9999997}
+      scale: {x: 0.57394737, y: 0.5739478, z: 0.5739483}
+    - name: Circle.231
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022680135, y: -0.0022598372, z: 0.014801434}
+      rotation: {x: -0.0003556017, y: -0.00056516705, z: 0.0004951351, w: 0.9999997}
+      scale: {x: 0.5739474, y: 0.57394767, z: 0.57394844}
+    - name: Circle.216
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.023607135, y: -0.0026669502, z: 0.0129906535}
+      rotation: {x: -0.00032880617, y: -0.00059681456, z: 0.0005159764, w: 0.99999964}
+      scale: {x: 0.57394755, y: 0.5739478, z: 0.57394856}
+    - name: Circle.217
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.02266872, y: -0.0022635458, z: 0.014802933}
+      rotation: {x: -0.00035577166, y: -0.00056534645, z: 0.0004950962, w: 0.9999997}
+      scale: {x: 0.5739476, y: 0.5739476, z: 0.57394844}
+    - name: Circle.218
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.022675393, y: -0.0022568705, z: 0.014801741}
+      rotation: {x: -0.00035575873, y: -0.0005652947, z: 0.0004951507, w: 0.9999997}
+      scale: {x: 0.57394737, y: 0.5739475, z: 0.5739484}
+    - name: Circle.150
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.000000016173745, y: 0.00000230212, z: 0.00000039927258}
+      rotation: {x: -0.000000009471142, y: -3.161334e-15, z: 4.290383e-15, w: 1}
+      scale: {x: 0.4916633, y: 0.49166325, z: 0.4916633}
+    - name: Circle.148
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.00000020779385, y: -0.0000014887172, z: 0.0000000024515707}
+      rotation: {x: -0.000000001894228, y: -5.645243e-17, z: -1.2984054e-15, w: 1}
+      scale: {x: 0.49166325, y: 0.49166325, z: 0.49166334}
+    - name: Circle.149
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.000000003165752, y: 0.0000025394381, z: 0.0000009954493}
+      rotation: {x: -0.000000015153832, y: -1.2758249e-14, z: 9.032386e-16, w: 1}
+      scale: {x: 0.49166325, y: 0.49166325, z: 0.4916635}
+    - name: Circle.153
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000018728447, y: -5.893742, z: 0.0000015649275}
+      rotation: {x: -0.000000022730731, y: -0.0000000011974146, z: -2.2172308e-10,
+        w: 1}
+      scale: {x: 0.4916634, y: 0.4916635, z: 0.49166358}
+    - name: Circle.151
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.000000034186616, y: -5.8937335, z: -0.000000024216847}
+      rotation: {x: -0.000000015153832, y: 8.010426e-12, z: 4.080049e-10, w: 1}
+      scale: {x: 0.49166316, y: 0.49166325, z: 0.49166313}
+    - name: Circle.152
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000016259255, y: -5.893742, z: 0.0000027951903}
+      rotation: {x: -0.000000020040622, y: -0.0000000010688721, z: -0.0000000014706636,
+        w: 1}
+      scale: {x: 0.49166325, y: 0.4916635, z: 0.49166414}
+    - name: Circle.237
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000015311788, y: -5.8937387, z: -0.000005938821}
+      rotation: {x: 0.00000021973044, y: 0.00000022112039, z: -0.000000008510969,
+        w: 1}
+      scale: {x: 0.49166334, y: 0.4916634, z: 0.49166358}
+    - name: Circle.236
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.0000024090316, y: -5.8937345, z: 0.000005012057}
+      rotation: {x: -0.00000018942285, y: -0.00000013823615, z: -0.00000006147654,
+        w: 1}
+      scale: {x: 0.49166316, y: 0.49166325, z: 0.49166316}
+    - name: Circle.023
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00000039231836, y: -5.8937306, z: -0.00000028946664}
+      rotation: {x: -0.000000012457237, y: -5.8372036e-11, z: 9.0648444e-10, w: 1}
+      scale: {x: 0.49166307, y: 0.49166316, z: 0.49166316}
+    - name: Circle.156
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000010797438, y: -0.0000053532417, z: 0.0000021481533}
+      rotation: {x: -0.000000020040622, y: -0.0000000010688721, z: -0.0000000014706636,
+        w: 1}
+      scale: {x: 0.49166325, y: 0.4916635, z: 0.49166414}
+    - name: Circle.159
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00000089280974, y: -0.0000053797717, z: 0.0000021010735}
+      rotation: {x: -0.000000037884544, y: -0.0000000011813146, z: -6.624976e-10,
+        w: 1}
+      scale: {x: 0.49166325, y: 0.49166355, z: 0.49166414}
+    - name: Circle.157
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000011481102, y: -0.000005585396, z: 0.000002011871}
+      rotation: {x: -0.00000007576909, y: -0.0000000011534569, z: -6.3907457e-10,
+        w: 1}
+      scale: {x: 0.4916633, y: 0.49166363, z: 0.49166414}
+    - name: Circle.158
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000007752872, y: -0.0000055446994, z: 0.0000019976544}
+      rotation: {x: -0.00000009685741, y: -0.0000000011535275, z: -6.391154e-10, w: 1}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1.0000014}
+    - name: Circle.154
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00000037378268, y: 0.0000024558979, z: -0.00000033859396}
+      rotation: {x: -0.000000012457237, y: -5.8372036e-11, z: 9.0648444e-10, w: 1}
+      scale: {x: 0.49166307, y: 0.49166316, z: 0.49166316}
+    - name: Circle.146
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0000006829915, y: 0.0000015667977, z: -0.0000003837156}
+      rotation: {x: 0.000000022730726, y: -1.11060654e-10, z: 0.00000000103162, w: 1}
+      scale: {x: 0.49166307, y: 0.49166316, z: 0.49166316}
+    - name: Circle.155
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.00000034140618, y: 0.0000017128199, z: -0.00000053293246}
+      rotation: {x: 0.00000000757689, y: -5.568332e-11, z: 7.2875883e-10, w: 1}
+      scale: {x: 0.49166307, y: 0.49166316, z: 0.49166307}
+    - name: Circle.147
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.000000541455, y: 0.0000018376397, z: -0.00000027327403}
+      rotation: {x: 0.000000007450587, y: -1.11117844e-10, z: 0.0000000010315314,
+        w: 1}
+      scale: {x: 0.99999934, y: 0.9999994, z: 0.9999994}
+    - name: Circle.144
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.00000013588549, y: 0.0000006647258, z: -0.00000037506368}
+      rotation: {x: 0.000000011365369, y: 6.4320493e-15, z: -2.850847e-15, w: 1}
+      scale: {x: 0.49166322, y: 0.49166334, z: 0.49166334}
+    - name: Mesh.005
+      parentName: ZionAIGod(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chain.002
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.70521206, y: 27.364693, z: 0.12374325}
+      rotation: {x: 0.000000028757922, y: -0.5581357, z: -0.00000003183604, w: 0.82974976}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.99999994}
+    - name: chain.006
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.6099337, y: 27.364693, z: 0.12374325}
+      rotation: {x: 0.0000000025665718, y: -0.8280112, z: -0.00000004621663, w: 0.56071156}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.9999999}
+    - name: chain.005
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.2834013, y: 27.274433, z: -0.053679425}
+      rotation: {x: 0.0000000111912435, y: -0.84594065, z: -0.000000059127334, w: 0.53327703}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.9999999}
+    - name: chain.004
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.18192424, y: 27.046474, z: 0.12374386}
+      rotation: {x: 0.000000016687697, y: -0.7612544, z: -0.000000038493283, w: 0.64845335}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.9999998}
+    - name: chain.003
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.10884622, y: 27.046474, z: 0.12374386}
+      rotation: {x: 0.000000023864377, y: -0.6277167, z: -0.000000027458867, w: 0.77844185}
+      scale: {x: 0.99999976, y: 0.9999997, z: 1}
+    - name: chain.001
+      parentName: ZionAIGod(Clone)
+      position: {x: -0.61572886, y: 27.274433, z: -0.000000013818563}
+      rotation: {x: -0.000000010536727, y: -0.7071067, z: -0.000000010536725, w: 0.7071068}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999999}
+    - name: chain
+      parentName: ZionAIGod(Clone)
+      position: {x: -1.3527364e-13, y: 27.274433, z: -0.000000013737009}
+      rotation: {x: -0.000000010536727, y: -0.7071067, z: -0.000000010536725, w: 0.7071068}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999999}
+    - name: mixamorig:Hips
+      parentName: ZionAIGod(Clone)
+      position: {x: 0.0006535148, y: 16.87138, z: -0.15433748}
+      rotation: {x: 0.0000010358226, y: 0.0000128099855, z: -0.00040608566, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 1.4576526, z: -0.09430522}
+      rotation: {x: -0.032298744, y: -0.000025919018, z: 0.00040546004, w: 0.99947816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 1.7041485, z: -0.0000000013083584}
+      rotation: {x: 5.869832e-26, y: -8.658266e-14, z: 6.779455e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 1.947601, z: -0.0000000032233216}
+      rotation: {x: 0, y: -0, z: -7.5730647e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.803259, y: 2.081009, z: 0.0050651645}
+      rotation: {x: 0.5216038, y: 0.4780856, z: -0.51610845, w: 0.48269632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: 5.7447935e-10, y: 1.6203431, z: 3.9219228e-10}
+      rotation: {x: -0.038494434, y: -0.004069907, z: -0.004913271, w: 0.99923843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -0.000000013073591, y: 4.4745364, z: -0.00000009907977}
+      rotation: {x: -0.0000004706076, y: -0.016696967, z: -0.000000102297825, w: 0.99986064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0.000000021218677, y: 3.8836296, z: 0.000000044090463}
+      rotation: {x: -0.008915522, y: 0.05104766, z: -0.056644313, w: 0.9970487}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandMiddle1
+      parentName: mixamorig:RightHand
+      position: {x: -0.15020363, y: 1.3104644, z: 0.015824331}
+      rotation: {x: 0.0058654575, y: 0.0024991434, z: 0.057107553, w: 0.9983477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandMiddle2
+      parentName: mixamorig:RightHandMiddle1
+      position: {x: 0.00007769279, y: 0.585653, z: 8.2043705e-10}
+      rotation: {x: -0.00000017392107, y: 0.0000005811371, z: -0.00006464124, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandMiddle3
+      parentName: mixamorig:RightHandMiddle2
+      position: {x: 0.0000017205721, y: 0.53167194, z: -0.0000000021003186}
+      rotation: {x: -0.00000024526616, y: -0.0000008492708, z: -0.00008386373, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandMiddle4
+      parentName: mixamorig:RightHandMiddle3
+      position: {x: -0.000079410536, y: 0.48236665, z: -0.0000000025283042}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandRing1
+      parentName: mixamorig:RightHand
+      position: {x: 0.16558076, y: 1.2673384, z: 0.016875349}
+      rotation: {x: 0.00587306, y: 0.0023600517, z: 0.057157446, w: 0.99834514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandRing2
+      parentName: mixamorig:RightHandRing1
+      position: {x: 0.00013014209, y: 0.5518765, z: 4.00978e-10}
+      rotation: {x: 0.00000028933422, y: -0.0000001341656, z: 0.0000057816433, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandRing3
+      parentName: mixamorig:RightHandRing2
+      position: {x: 0.00012678729, y: 0.5143219, z: -0.000000005695183}
+      rotation: {x: -0.00000001473752, y: -0.0000075697462, z: -0.0003924966, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandRing4
+      parentName: mixamorig:RightHandRing3
+      position: {x: -0.00025692926, y: 0.47774798, z: 0.000000016107414}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: -0.46237385, y: 1.3623474, z: 0.0100920955}
+      rotation: {x: 0.0059087, y: 0.0017376824, z: 0.057042554, w: 0.99835277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: 0.0000060042476, y: 0.54237205, z: 4.7677984e-10}
+      rotation: {x: 0.0000003082147, y: -0.000003755165, z: 0.00015389918, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: 0.00016023564, y: 0.5017752, z: 0.000000003631994}
+      rotation: {x: -0.000000090977224, y: -0.0000011026422, z: -0.00034043193, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: -0.00016623364, y: 0.45847297, z: 0.000000007734266}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandPinky1
+      parentName: mixamorig:RightHand
+      position: {x: 0.4469967, y: 1.1732726, z: 0.0041817804}
+      rotation: {x: 0.005965168, y: 0.0007444666, z: 0.0570908, w: 0.9983509}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandPinky2
+      parentName: mixamorig:RightHandPinky1
+      position: {x: 0.000064681284, y: 0.53615516, z: 1.4078522e-10}
+      rotation: {x: 0.0000003083903, y: -0.000011697477, z: 0.00021007657, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandPinky3
+      parentName: mixamorig:RightHandPinky2
+      position: {x: 0.00024488012, y: 0.4525481, z: -0.0000000085907725}
+      rotation: {x: 0.00000024699114, y: -0.000011339546, z: -0.0006620586, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandPinky4
+      parentName: mixamorig:RightHandPinky3
+      position: {x: -0.00030956476, y: 0.39598686, z: 0.000000024099158}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandThumb1
+      parentName: mixamorig:RightHand
+      position: {x: -0.3751731, y: 0.47502053, z: 0.18514243}
+      rotation: {x: 0.08029278, y: -0.0027569868, z: 0.35797638, w: 0.930268}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandThumb2
+      parentName: mixamorig:RightHandThumb1
+      position: {x: -0.046527136, y: 0.5042514, z: 0.000000009242384}
+      rotation: {x: 0.0002574051, y: -0.0051970533, z: 0.042579904, w: 0.9990795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandThumb3
+      parentName: mixamorig:RightHandThumb2
+      position: {x: -0.0037716464, y: 0.5528973, z: 0.00000004094815}
+      rotation: {x: 0.000021773278, y: 0.00048801454, z: 0.051428866, w: 0.99867654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandThumb4
+      parentName: mixamorig:RightHandThumb3
+      position: {x: 0.050298728, y: 0.5218926, z: 0.0000000017098409}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 2.1910484, z: -0.00000006674797}
+      rotation: {x: 0.032297682, y: 3.526711e-14, z: 2.28632e-13, w: 0.9994783}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 1.5099072, z: -0.415667}
+      rotation: {x: 0, y: 0, z: 1.411138e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 1.7279615, z: -0.47569567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.803259, y: 2.0825791, z: -0.019202033}
+      rotation: {x: 0.512865, y: -0.48535773, z: 0.52387893, w: 0.47639084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -3.980118e-10, y: 1.6203431, z: 0.0000000036606025}
+      rotation: {x: -0.037459247, y: 0.002899619, z: -0.010137554, w: 0.99924254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -0.0000000036252805, y: 4.473068, z: 0.0000000348823}
+      rotation: {x: -0.00000020961843, y: 0.015678434, z: 0.00000008488819, w: 0.9998771}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -0.000000021647852, y: 3.8800116, z: 0.000000016288086}
+      rotation: {x: 0.0039379657, y: -0.062130004, z: 0.060436618, w: 0.99622875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandThumb1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.38314062, y: 0.47294623, z: 0.20271495}
+      rotation: {x: 0.06533411, y: 0.010675136, z: -0.3500765, w: 0.934379}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandThumb2
+      parentName: mixamorig:LeftHandThumb1
+      position: {x: 0.059886258, y: 0.509723, z: 0.000000009744362}
+      rotation: {x: 0.00022033147, y: 0.0046385312, z: -0.06950485, w: 0.9975708}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandThumb3
+      parentName: mixamorig:LeftHandThumb2
+      position: {x: -0.012215074, y: 0.5508257, z: -0.0000000058381966}
+      rotation: {x: -0.000044664142, y: 0.00077744445, z: -0.03564813, w: 0.99936414}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandThumb4
+      parentName: mixamorig:LeftHandThumb3
+      position: {x: -0.04767118, y: 0.50845325, z: -0.000000018175216}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.4561473, y: 1.3224027, z: 0.015627421}
+      rotation: {x: -0.0077291643, y: -0.0006138089, z: -0.06036652, w: 0.9981462}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: -0.00032828335, y: 0.5509136, z: 0.00000000321646}
+      rotation: {x: 0.00000031002742, y: -0.0000011772144, z: 0.0006451904, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: 0.00035147936, y: 0.50493896, z: -0.000000010681624}
+      rotation: {x: 0.00000016257137, y: 0.000004681881, z: -0.000372678, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: -0.000023207385, y: 0.45779938, z: 0.000000009551663}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandMiddle1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.15532744, y: 1.2856684, z: -0.0198888}
+      rotation: {x: -0.007635444, y: 0.0009468556, z: -0.060602024, w: 0.99813235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandMiddle2
+      parentName: mixamorig:LeftHandMiddle1
+      position: {x: -0.00058738014, y: 0.56266457, z: -0.000000009791249}
+      rotation: {x: 0.0000002267902, y: -0.000010154668, z: 0.0012550055, w: 0.9999992}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandMiddle3
+      parentName: mixamorig:LeftHandMiddle2
+      position: {x: 0.0008107024, y: 0.5529053, z: 0.0000000104464375}
+      rotation: {x: 0.00000020224934, y: 0.000020278445, z: -0.0009592772, w: 0.9999996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandMiddle4
+      parentName: mixamorig:LeftHandMiddle3
+      position: {x: -0.00022330791, y: 0.49367744, z: -0.0000000023515756}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandRing1
+      parentName: mixamorig:LeftHand
+      position: {x: -0.16895023, y: 1.2560174, z: -0.007489603}
+      rotation: {x: -0.0077138986, y: -0.00035573568, z: -0.059946436, w: 0.99817175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandRing2
+      parentName: mixamorig:LeftHandRing1
+      position: {x: 0.00013869001, y: 0.5533083, z: -0.0000000031191802}
+      rotation: {x: -0.00000029188558, y: -0.00002697683, z: 0.000709236, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandRing3
+      parentName: mixamorig:LeftHandRing2
+      position: {x: 0.0008679387, y: 0.51981074, z: -0.0000000036239907}
+      rotation: {x: 0.00000007463449, y: -0.000020531728, z: -0.0019262728, w: 0.99999815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandRing4
+      parentName: mixamorig:LeftHandRing3
+      position: {x: -0.0010066426, y: 0.4613617, z: 0.000000009105074}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandPinky1
+      parentName: mixamorig:LeftHand
+      position: {x: -0.4425245, y: 1.1679318, z: 0.03120449}
+      rotation: {x: -0.007883964, y: -0.0031890448, z: -0.060021, w: 0.9981609}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandPinky2
+      parentName: mixamorig:LeftHandPinky1
+      position: {x: 0.000032247324, y: 0.5564607, z: -0.0000000054076557}
+      rotation: {x: 0.00000010482382, y: -0.0000025636102, z: -0.00028026104, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandPinky3
+      parentName: mixamorig:LeftHandPinky2
+      position: {x: -0.00022348015, y: 0.4433877, z: -2.683237e-10}
+      rotation: {x: -0.000000048620674, y: 0.00000043115637, z: 0.0004831254, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandPinky4
+      parentName: mixamorig:LeftHandPinky3
+      position: {x: 0.0001912405, y: 0.41233018, z: -5.5410965e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 1.511111, y: -0.8105248, z: 0.15433082}
+      rotation: {x: 0.001754451, y: -0.0013649862, z: 0.9999359, w: 0.011102314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -7.193324e-10, y: 7.319645, z: 0.000000010787315}
+      rotation: {x: -0.029800108, y: 0.00037777782, z: 0.023847409, w: 0.9992713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: 0.000000001857825, y: 6.874843, z: -0.000000011513432}
+      rotation: {x: 0.44520974, y: 0.004108925, z: -0.023254134, w: 0.8951149}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: 0.0000000032993757, y: 2.8153124, z: -0.000000006610352}
+      rotation: {x: 0.34419945, y: -0.0036622868, z: 0.0013426074, w: 0.9388885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -9.1690017e-10, y: 0.9649627, z: 2.2828256e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -1.511111, y: -0.8105248, z: 0.14662208}
+      rotation: {x: -0.0017338756, y: -0.0038847863, z: 0.99991983, w: -0.01192653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: -0.000000010261878, y: 7.3162966, z: -0.000000028751895}
+      rotation: {x: -0.024025338, y: -0.00041473098, z: -0.023850437, w: 0.9994267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -0.000000005754416, y: 6.8781986, z: -0.0000000347178}
+      rotation: {x: 0.44329768, y: -0.0038243693, z: 0.023282344, w: 0.89606386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -0.0000000014323874, y: 2.8227992, z: -1.0236505e-10}
+      rotation: {x: 0.34312782, y: 0.0034828093, z: -0.0012723003, w: 0.9392814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 6.8450023e-10, y: 0.9647513, z: -3.276441e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0da98af73917d3940877b9700561c9e7,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

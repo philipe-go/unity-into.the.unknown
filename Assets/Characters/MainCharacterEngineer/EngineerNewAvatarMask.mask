@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EngineerNewAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/root.foot.L
+    m_Weight: 0
+  - m_Path: Armature/root.foot.L/root.foot.L_end
+    m_Weight: 0
+  - m_Path: Armature/root.foot.R
+    m_Weight: 0
+  - m_Path: Armature/root.foot.R/root.foot.R_end
+    m_Weight: 0
+  - m_Path: Armature/root.hand.L
+    m_Weight: 0
+  - m_Path: Armature/root.hand.L/root.hand.L_end
+    m_Weight: 0
+  - m_Path: Armature/root.hand.R
+    m_Weight: 0
+  - m_Path: Armature/root.hand.R/root.hand.R_end
+    m_Weight: 0
+  - m_Path: Armature/root.head
+    m_Weight: 0
+  - m_Path: Armature/root.head/root.head_end
+    m_Weight: 0
+  - m_Path: Armature/root.hips
+    m_Weight: 0
+  - m_Path: Armature/root.hips/Head.008
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L/Cables_jambes.002
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L/Head.006
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L/shin.L
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L/shin.L/foot.L
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L/shin.L/foot.L/foot.L_end
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L/shin.L/foot.L/Head.002
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.L/shin.L/Head.004
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R/Cables_jambes
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R/Head.007
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R/shin.R
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R/shin.R/foot.R
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R/shin.R/foot.R/foot.R_end
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R/shin.R/foot.R/Head.003
+    m_Weight: 0
+  - m_Path: Armature/root.hips/leg.R/shin.R/Head.005
+    m_Weight: 0
+  - m_Path: Armature/root.hips/spine1
+    m_Weight: 0
+  - m_Path: Armature/root.hips/spine1/cables_corps
+    m_Weight: 0
+  - m_Path: Armature/root.hips/spine1/cables_corps.002
+    m_Weight: 0
+  - m_Path: Armature/root.hips/spine1/Head.009
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/Head
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/head
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/head/Head.010
+    m_Weight: 0
+  - m_Path: Armature/root.hips/spine1/spine2/head/head_end
+    m_Weight: 0
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/Cables_bras.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/Head.015
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/middle.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/middle.L/middle.L.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/middle.L/middle.L.001/middle.L.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/middle.L/middle.L.001/middle.L.002/middle.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/middle.root.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/middle.root.L/middle.root.L_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pinky.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pinky.L/pinky.L.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pinky.L/pinky.L.001/pinky.L.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pinky.L/pinky.L.001/pinky.L.002/pinky.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pinky.root.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pinky.root.L/pinky.root.L_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pointer.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pointer.L/pointer.L.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pointer.L/pointer.L.001/pointer.L.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pointer.L/pointer.L.001/pointer.L.002/pointer.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pointer.root.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/pointer.root.L/pointer.root.L_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/thumb.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/thumb.L/thumb.L.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/thumb.L/thumb.L.001/thumb.L.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/thumb.L/thumb.L.001/thumb.L.002/thumb.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/thumb.root.L
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/thumb.root.L/thumb.root.L_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/forearm.L/Head.016
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.L/arm.L/Head.017
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/Cables_bras
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/Head.020
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/middle.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/middle.R/middle.R.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/middle.R/middle.R.001/middle.R.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/middle.R/middle.R.001/middle.R.002/middle.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/middle.root.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/middle.root.R/middle.root.R_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pinky.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pinky.R/pinky.R.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pinky.R/pinky.R.001/pinky.R.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pinky.R/pinky.R.001/pinky.R.002/pinky.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pinky.root.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pinky.root.R/pinky.root.R_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pointer.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pointer.R/pointer.R.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pointer.R/pointer.R.001/pointer.R.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pointer.R/pointer.R.001/pointer.R.002/pointer.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pointer.root.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/pointer.root.R/pointer.root.R_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/thumb.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/thumb.R/thumb.R.001
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/thumb.R/thumb.R.001/thumb.R.002
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/thumb.R/thumb.R.001/thumb.R.002/thumb.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/thumb.root.R
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/thumb.root.R/thumb.root.R_end
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/forearm.R/Head.019
+    m_Weight: 1
+  - m_Path: Armature/root.hips/spine1/spine2/shoulder.R/arm.R/Head.018
+    m_Weight: 1
+  - m_Path: Head.011
+    m_Weight: 0
+  - m_Path: Head.012
+    m_Weight: 0
+  - m_Path: Head.013
+    m_Weight: 0
+  - m_Path: Head.014
+    m_Weight: 0
+  - m_Path: Head.021
+    m_Weight: 0
+  - m_Path: Head.022
+    m_Weight: 0
+  - m_Path: Head.023
+    m_Weight: 0
+  - m_Path: Head.024
+    m_Weight: 0

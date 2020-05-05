@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SphereAvaterMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body.001/Body.001_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg1
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg1/Leg1.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg1/Leg1.001/Leg1.002
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg1/Leg1.001/Leg1.002/Leg1.003
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg1/Leg1.001/Leg1.002/Leg1.003/Leg1.003_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg2
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg2/Leg2.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg2/Leg2.001/Leg2.002
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg2/Leg2.001/Leg2.002/Leg2.003
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg2/Leg2.001/Leg2.002/Leg2.003/Leg2.003_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg3
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg3/Leg3.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg3/Leg3.001/Leg3.002
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg3/Leg3.001/Leg3.002/Leg3.003
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg3/Leg3.001/Leg3.002/Leg3.003/Leg3.003_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg4
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg4/Leg4.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg4/Leg4.001/Leg4.002
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg4/Leg4.001/Leg4.002/Leg4.003
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg4/Leg4.001/Leg4.002/Leg4.003/Leg4.003_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg5
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg5/Leg5.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg5/Leg5.001/Leg5.002
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg5/Leg5.001/Leg5.002/Leg5.003
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg5/Leg5.001/Leg5.002/Leg5.003/Leg5.003_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg6
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg6/Leg6.001
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg6/Leg6.001/Leg6.002
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg6/Leg6.001/Leg6.002/Leg6.003
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Down/Leg6/Leg6.001/Leg6.002/Leg6.003/Leg6.003_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7/Leg7.001
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7/Leg7.001/Leg7.002
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7/Leg7.001/Leg7.002/Leg7.003
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7/Leg7.001/Leg7.002/Leg7.003/Leg7.003_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7.005
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7.005/Leg7.004
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg7.005/Leg7.004/Leg7.004_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8/Leg8.001
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8/Leg8.001/Leg8.002
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8/Leg8.001/Leg8.002/Leg8.003
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8/Leg8.001/Leg8.002/Leg8.003/Leg8.003_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8.005
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8.005/Leg8.004
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg8.005/Leg8.004/Leg8.004_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9/Leg9.001
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9/Leg9.001/Leg9.002
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9/Leg9.001/Leg9.002/Leg9.003
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9/Leg9.001/Leg9.002/Leg9.003/Leg9.003_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9.005
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9.005/Leg9.004
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg9.005/Leg9.004/Leg9.004_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10/Leg10.001
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10/Leg10.001/Leg10.002
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10/Leg10.001/Leg10.002/Leg10.003
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10/Leg10.001/Leg10.002/Leg10.003/Leg10.003_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10.005
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10.005/Leg10.004
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg10.005/Leg10.004/Leg10.004_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11/Leg11.001
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11/Leg11.001/Leg11.002
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11/Leg11.001/Leg11.002/Leg11.003
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11/Leg11.001/Leg11.002/Leg11.003/Leg11.003_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11.005
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11.005/Leg11.004
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg11.005/Leg11.004/Leg11.004_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12/Leg12.001
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12/Leg12.001/Leg12.002
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12/Leg12.001/Leg12.002/Leg12.003
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12/Leg12.001/Leg12.002/Leg12.003/Leg12.003_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12.005
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12.005/Leg12.004
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Body/Body_Up/Leg12.005/Leg12.004/Leg12.004_end
+    m_Weight: 1
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg1.005
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg1.005/Leg1.004
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg1.005/Leg1.004/Leg1.004_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg2.005
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg2.005/Leg2.004
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg2.005/Leg2.004/Leg2.004_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg3.005
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg3.005/Leg3.004
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg3.005/Leg3.004/Leg3.004_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg4.005
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg4.005/Leg4.004
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg4.005/Leg4.004/Leg4.004_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg5.005
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg5.005/Leg5.004
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg5.005/Leg5.004/Leg5.004_end
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg6.005
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg6.005/Leg6.004
+    m_Weight: 0
+  - m_Path: Armature.001/root_2.001/Bone.001/root_2/Leg6.005/Leg6.004/Leg6.004_end
+    m_Weight: 0
+  - m_Path: Leg_2.001
+    m_Weight: 0
