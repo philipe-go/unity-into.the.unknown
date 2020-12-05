@@ -1,8 +1,8 @@
-![PSY](./Manual/PSY.png?Style=centerme)
+<p align="center"><img src="./Manual/PSY.png" width="50%" height="50%"></p>
 
 # INTO THE UNKNOWN - UNITY ENGINE PROJECT #
 
-![Cover](./Manual/Background.png?Style=centerme)
+<p align="center"><img src="./Manual/Background.png" width="50%" height="50%"></p>
 
 #######################################################################
 
@@ -41,17 +41,18 @@ Build - https://philipego.itch.io/into-the-unkown
 
       2.1 - Control Scheme:
 
-![ControlScheme](./Manual/ControlScheme.png)
+<p align="center"><img src="./Manual/ControlScheme.png"></p>
 
-![ControlScheme2](./Manual/ControlScheme2.png)
+<p align="center"><img src="./Manual/ControlScheme2.png"></p>
 
-![ControlScheme3](./Manual/ControlScheme3.png)
+<p align="center"><img src="./Manual/ControlScheme3.png"></p>
 
       2.2 - Important Visuals:
       
-![Iconography](./Manual/Iconography.png)
+<p align="center"><img src="./Manual/Iconography.png"></p>
 
-![Iconography2](./Manual/Iconography2.png)
+<p align="center"><img src="./Manual/Iconography2.png"></p>
+
 
 
 **Section 3: Development Process**
